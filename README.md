@@ -1,2 +1,2 @@
 # Packages-in-Java
-CS8383-OBJECT ORIENTED PROGRAMMING Laboratory 
+CS8383-Object Oriented Programming Laboratory 
